@@ -1,0 +1,10 @@
+D:\visual studio\project\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+D:\visual studio\project\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+D:\visual studio\project\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+D:\visual studio\project\SerialTest\SerialTest\obj\Debug\SerialTest.csprojAssemblyReference.cache
+D:\visual studio\project\SerialTest\SerialTest\obj\Debug\SerialTest.Form1.resources
+D:\visual studio\project\SerialTest\SerialTest\obj\Debug\SerialTest.Properties.Resources.resources
+D:\visual studio\project\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.GenerateResource.cache
+D:\visual studio\project\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.CoreCompileInputs.cache
+D:\visual studio\project\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+D:\visual studio\project\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
